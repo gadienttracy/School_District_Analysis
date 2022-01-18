@@ -17,6 +17,7 @@ After removing the scores for 9th graders at Thomas High School we were able to 
 - The average reading score received by students in each grade level at each school: Thomas High Schools 9th grade reading scores returned "nan"
 
 ![nan](https://user-images.githubusercontent.com/91269696/149867068-ac03c290-db7b-4d6f-b87f-8b1afd27ac06.PNG)
+
 *9th grade scores from Thomas High School return 'nan'*
 
 - School performance based on the budget per student: the budget per student was affted in the $630-644 bin.  While the differences were only seen in the hundreths place the Overall passing was 62.78% without the 9th grade students from Thomas High School and 62.86% with them included.
@@ -24,9 +25,11 @@ After removing the scores for 9th graders at Thomas High School we were able to 
 - School performance based on the type of school: The average math score dropped one-hundreth's of a point, the average reading score increased one-hundreth's of a point, the % passing math and reading were affected in a minor way as well. Finally the overall passing score for Charter schools was 90.39% with the removal of the scores, it was 90.43% with them included.
 
 ![challenge](https://user-images.githubusercontent.com/91269696/149866876-9cdcc396-fbfb-4762-b445-cf50941be070.PNG)
+
 *challenge summary*
 
 ![prechallenge](https://user-images.githubusercontent.com/91269696/149866988-2c9bdcb0-5088-468e-8a06-520e0ce8ca04.PNG)
+
 *results before the removal of the 9th grade students from Thomas High School*
 
 ## Summary:
